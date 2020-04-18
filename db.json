@@ -1,8 +1,8 @@
 {
 "users":[
-{"id":1, "name":"Marine Mendez","username":"MGMarines","email":"marines@codigofacilito.com","image":"https://i.ibb.co/ZH7356D/cody.jpg"},
-{"id":2, "name":"jose","username":"MGMarines","email":"marines@codigofacilito.com","image":"https://i.ibb.co/ZH7356D/cody.jpg"},
-{"id":3, "name":"carmen","username":"MGMarines","email":"marines@codigofacilito.com","image":"https://i.ibb.co/ZH7356D/cody.jpg"}
+{"id":1, "name":  "Marine Mendez",  "username":"MGMarines","email":"marines@codigofacilito.com","image":"https://i.ibb.co/ZH7356D/cody.jpg"},
+{"id":2, "name":  "jose",            "username":"MGMarines","email":"marines@codigofacilito.com","image":"https://i.ibb.co/ZH7356D/cody.jpg"},
+{"id":3, "name":  "carmen",           "username":"MGMarines","email":"marines@codigofacilito.com","image":"https://i.ibb.co/ZH7356D/cody.jpg"}
 ],
   "posts": [
     { "id": 1, "title": "¿Por que Adoptar animales?", "body":"Pienso que es importante adoptar animales porque...","userId":1 },
